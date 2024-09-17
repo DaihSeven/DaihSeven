@@ -3,7 +3,6 @@
 
 - 😄 Pronomes: Ela/Dela
 - 🌐🗺️ Português e Inglês
-
 - ⚡ Curiosidade: Corinthiana fánatica por futebol! 🖤🤍🦅
 
 # Hello, welcome!
@@ -41,12 +40,14 @@ I am a full-stack developer...
 - 📫 Pode entrar em contato comigo pelo meu LinkedIn: 
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daianebarbosak/)
-- ou pelo email: bdaih0405@gmail.com
+- Pelo email: bdaih0405@gmail.com
+- [![Portfólio](https://img.shields.io/badge/portfolio-gray?style=for-the-badge&message=Daiane%20Barbosa&logo=folder&logoColor=white)](https://daihseven.github.io/PortifolioDaiane/)
 ## 🔗 Links
 - 📫 You can contact me through my LinkedIn:
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daianebarbosak/)
-- or by email: bdaih0405@gmail.com
+- By email: bdaih0405@gmail.com
+- [![Portfólio](https://img.shields.io/badge/portfolio-gray?style=for-the-badge&message=Daiane%20Barbosa&logo=folder&logoColor=white)](https://daihseven.github.io/PortifolioDaiane/)
 
 
 ## 🧠 Estou aprendendo 
