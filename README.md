@@ -1,4 +1,4 @@
-# Hi, I'm DaihSeven 👋
+# Hi, I'm Daiane Barbosa 👋
 
 Welcome to my GitHub profile! I'm a passionate developer who loves to create, learn, and share knowledge with the community. Here's a little bit more about me:
 
@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to create, le
 - 🌐🗺️ Portuguese and English
 - ⚡ Fun fact: Corinthians fanatic about football! 🖤  🦅
 - - Here you will find repositories of personal projects and courses that I participate in!
-# Olá, eu sou DaihSeven 👋
+# Olá, eu sou Daiane Barbosa 👋
 
 Bem-vindo ao meu perfil do GitHub! Sou uma desenvolvedora apaixonada que ama criar, aprender e compartilhar conhecimento com a comunidade. Aqui está um pouco mais sobre mim:
 
@@ -18,78 +18,63 @@ Bem-vindo ao meu perfil do GitHub! Sou uma desenvolvedora apaixonada que ama cri
 ## 🚀 About me
 I am a full-stack developer...
 
-🔙🔚I am interested in Java, Cloud Computing, Databases and DevOps.
+🔙🔚I am interested in Java, NodeJS, Cloud Computing and Databases.
 
 🧠💻 I am currently studying Software Engineering.
 
-💞️ I am a volunteer at Escola Da Nuvem, I seek to contribute to human development, in their technical and SoftSkills skills.💭
+💞️ I am a volunteer at Escola Da Nuvem, where I currently provide mentoring regarding the AWS Cloud Practitioner Certification, and I have also worked as a facilitator of behavioral skills (Soft Skills).💭
 
 ## 🚀 Sobre mim
 Eu sou uma pessoa desenvolvedora full-stack...
 
-🔙🔚Me interesso por Java, Computação em Nuvem, Banco de Dados e DevOps.
+🔙🔚Me interesso por Java, NodeJS, Computação em Nuvem e Banco de Dados.
 
 🧠💻 Atualmente estou estudando Engenharia de Software.
 
-💞️ Sou voluntária na Escola Da Nuvem, procuro contribuir com o desenvolvimento humano, em suas habilidades técnicas e de SoftSkills.💭
+💞️ Sou voluntária na Escola Da Nuvem, onde atualmente dou mentorias referente a Certificação AWS Cloud Practitioner, e também já atuei como facilitadora de habilidades comportamentais(Soft Skills).💭
 
 ## 🛠️ Technologies & Tools
 ## 🛠️ Tecnologias & Ferramentas
 **Languages/ Linguagens:**
 
 [![JavaScript](https://img.shields.io/badge/javascript-%23333333?style=for-the-badge&logo=javascript&logoColor=white)](https://www.javascript.com/) 
-
+![NodeJS](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
 [![Java](https://img.shields.io/badge/java-orange?style=for-the-badge&logo=java&logoColor=white)](https://www.oracle.com/java/)
 
 **Tools/ Ferramentas:**
 
 [![GitHub](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-
 [![Linux](https://img.shields.io/badge/linux-kernel-orange?style=for-the-badge&logo=linux&logoColor=white)](https://www.kernel.org/)
-
 [![Git](https://img.shields.io/badge/git-orange?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 
 **Cloud/ Nuvem:**
 
 [![AWS](https://img.shields.io/badge/aws-orange?style=for-the-badge&logo=aws&logoColor=white)](https://aws.amazon.com/)
-
 [![Azure](https://img.shields.io/badge/microsoft%20azure-blue?style=for-the-badge&logo=microsoft%20azure&logoColor=white)](https://azure.microsoft.com/)
 
 **Database/ Banco de dados:**
 
 [![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF)
 
 ## 🔗 Links
 - 📫 You can contact me through my LinkedIn:
-
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daianebarbosak/)
 - By email: bdaih0405@gmail.com
 - [![Portfólio](https://img.shields.io/badge/portfolio-gray?style=for-the-badge&message=Daiane%20Barbosa&logo=folder&logoColor=white)](https://daihseven.github.io/PortifolioDaiane/)
   
 ## 🔗 Links
 - 📫 Pode entrar em contato comigo pelo meu LinkedIn: 
-
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daianebarbosak/)
 - Pelo email: bdaih0405@gmail.com
 - [![Portfólio](https://img.shields.io/badge/portfolio-gray?style=for-the-badge&message=Daiane%20Barbosa&logo=folder&logoColor=white)](https://daihseven.github.io/PortifolioDaiane/)
 
 ## 🧠 I'm learning
 ## 🧠 Estou aprendendo 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
-
-[![Docker](https://img.shields.io/badge/docker-blue?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-
-[![Zabbix](https://img.shields.io/badge/zabbix-green?style=for-the-badge&logo=zabbix&logoColor=white)](https://www.zabbix.com/)
-
-[![Prometheus](https://img.shields.io/badge/prometheus-blue?style=for-the-badge&logo=prometheus&logoColor=white)](https://prometheus.io/)
-
-[![Grafana](https://img.shields.io/badge/grafana-purple?style=for-the-badge&logo=grafana&logoColor=white)](https://grafana.com/)
-
-[![Datadog](https://img.shields.io/badge/datadog-orange?style=for-the-badge&logo=datadog&logoColor=white)](https://www.datadoghq.com/)
-
-[![Kubernetes](https://img.shields.io/badge/kubernetes-purple?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
-
-[![Terraform](https://img.shields.io/badge/terraform-blue?style=for-the-badge&logo=hashicorp&logoColor=white)](https://www.terraform.io/)
+![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
+![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white)
+![ReactJs](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat)
 
 ## 📈 GitHub Stats
 ![DaihSeven's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaihSeven&show_icons=true&theme=radical)
