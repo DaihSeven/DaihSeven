@@ -77,7 +77,12 @@ Eu sou uma pessoa desenvolvedora full-stack...
 ![ReactJs](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat)
 
 ## 📈 GitHub Stats
-![DaihSeven's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaihSeven&show_icons=true&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DaihSeven&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DaihSeven&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
 
 ## 👨‍💻 Projects / Projetos
 Here are some of the projects I've worked on:
@@ -129,6 +134,13 @@ Descrição: Durante o curso de Monitoramento e Observabilidade da O2B Academy, 
 Tecnologias: Prometheus, Grafana, Docker, Python
 
 Repositório: [GitHub](https://github.com/DaihSeven/desafio-obs.git)
+
+# Visitors/ Visitantes
+<div align="center">
+  <img src="https://profile-counter.glitch.me/DaihSeven/count.svg?"  />
+</div>
+
+###
 
 ## Licença
 
