@@ -26,6 +26,12 @@ I am a full-stack developer...
 
 💞️ I am a volunteer at Escola Da Nuvem, where I currently provide mentoring regarding the AWS Cloud Practitioner Certification, and I have also worked as a facilitator of behavioral skills (Soft Skills).💭
 
+🎓 I am 1x AWS Certified ☁️
+
+<a href="https://www.credly.com/badges/70da7f47-8cd5-4258-9c1a-9031055fa506/linked_in?t=s5nlpx" target="_blank">
+  <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS CCP-C02" width="90" height="90" />
+</a>
+
 ## 🚀 Sobre mim
 Eu sou uma pessoa desenvolvedora full-stack...
 
@@ -34,6 +40,12 @@ Eu sou uma pessoa desenvolvedora full-stack...
 🧠💻 Atualmente estou estudando Engenharia de Software.
 
 💞️ Sou voluntária na Escola Da Nuvem, onde atualmente dou mentorias referente a Certificação AWS Cloud Practitioner, e também já atuei como facilitadora de habilidades comportamentais(Soft Skills).💭
+
+🎓 Sou 1x Certificada AWS ☁️
+
+<a href="https://www.credly.com/badges/70da7f47-8cd5-4258-9c1a-9031055fa506/linked_in?t=s5nlpx" target="_blank">
+  <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS CCP-C02" width="90" height="90" />
+</a>
 
 ## 🛠️ Technologies & Tools
 ## 🛠️ Tecnologias & Ferramentas
@@ -85,7 +97,7 @@ Eu sou uma pessoa desenvolvedora full-stack...
 </div>
 
 ###
-
+<!--
 ## 👨‍💻 Projects / Projetos
 Here are some of the projects I've worked on:
 Aqui estão alguns dos projetos nos quais trabalhei:
@@ -136,7 +148,7 @@ Descrição: Durante o curso de Monitoramento e Observabilidade da O2B Academy, 
 Tecnologias: Prometheus, Grafana, Docker, Python
 
 Repositório: [GitHub](https://github.com/DaihSeven/desafio-obs.git)
-
+-->
 # Visitors/ Visitantes
 <div align="center">
   <img src="https://profile-counter.glitch.me/DaihSeven/count.svg?"  />
