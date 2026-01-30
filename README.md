@@ -1,100 +1,206 @@
-# Hi👋
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9400d3&random=false&width=435&height=35&lines=My+name+is+Daiane+Barbosa!;I'm+a+Full+Stack+developer!;I'm+a+Software+Enginner+student!;I+have+21+years+old!;)](https://git.io/typing-svg)
+# 👋 Hi | Olá
 
-Welcome to my GitHub profile! I'm a passionate developer who loves to create, learn, and share knowledge with the community. Here's a little bit more about me:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9400d3&width=435&height=35&lines=My+name+is+Daiane+Barbosa!;Full+Stack+Developer;Software+Engineering+Student;Cloud+Enthusiast+☁️)](https://git.io/typing-svg)
 
-- 😄 Pronouns: She/Her
-- 🌐🗺️ Portuguese and English
-- ⚡ Fun fact: Corinthians fanatic about football! 🖤  🦅
-- - Here you will find repositories of personal projects and courses that I participate in!
-# Olá👋
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9400d3&random=false&width=499&height=35&lines=Meu+nome+é+Daiane+Barbosa!;Sou+Desenvolvedora+Full+Stack!;Sou+estudante+de+Engenharia+de+Software!;Eu+tenho+21+anos!;)](https://git.io/typing-svg)
+---
 
-Bem-vindo ao meu perfil do GitHub! Sou uma desenvolvedora apaixonada que ama criar, aprender e compartilhar conhecimento com a comunidade. Aqui está um pouco mais sobre mim:
 
-- 😄 Pronomes: Ela/Dela
-- 🌐🗺️ Português e Inglês
-- ⚡ Curiosidade: Corinthiana fánatica por futebol! 🖤🤍🦅
-- Aqui você encontrará repositórios de projetos pessoais e de de cursos que participo!
-  
-## 🚀 About me
-I am a full-stack developer...
 
-🔙🔚I am interested in Java, NodeJS, Cloud Computing and Databases.
+## 🌐 Connect with me | Contato
 
-🧠💻 I am currently studying Software Engineering.
+<p align="center">
 
-💞️ I am a volunteer at Escola Da Nuvem, where I currently provide mentoring regarding the AWS Cloud Practitioner Certification, and I have also worked as a facilitator of behavioral skills (Soft Skills).💭
-
-🎓 I am 1x AWS Certified ☁️
-
-<a href="https://www.credly.com/badges/70da7f47-8cd5-4258-9c1a-9031055fa506/linked_in?t=s5nlpx" target="_blank">
-  <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS CCP-C02" width="90" height="90" />
+<a href="https://www.linkedin.com/in/daianebarbosak/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-## 🚀 Sobre mim
-Eu sou uma pessoa desenvolvedora full-stack...
-
-🔙🔚Me interesso por Java, NodeJS, Computação em Nuvem e Banco de Dados.
-
-🧠💻 Atualmente estou estudando Engenharia de Software.
-
-💞️ Sou voluntária na Escola Da Nuvem, onde atualmente dou mentorias referente a Certificação AWS Cloud Practitioner, e também já atuei como facilitadora de habilidades comportamentais(Soft Skills).💭
-
-🎓 Sou 1x Certificada AWS ☁️
-
-<a href="https://www.credly.com/badges/70da7f47-8cd5-4258-9c1a-9031055fa506/linked_in?t=s5nlpx" target="_blank">
-  <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS CCP-C02" width="90" height="90" />
+<a href="https://dev-portfolio-murex-phi.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-## 🛠️ Technologies & Tools
-## 🛠️ Tecnologias & Ferramentas
-**Languages/ Linguagens:**
+<a href="mailto:developerdaiane@gmail.com">
+<img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-[![JavaScript](https://img.shields.io/badge/javascript-%23333333?style=for-the-badge&logo=javascript&logoColor=white)](https://www.javascript.com/) 
-![NodeJS](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
-[![Java](https://img.shields.io/badge/java-orange?style=for-the-badge&logo=java&logoColor=white)](https://www.oracle.com/java/)
+</p>
 
-**Tools/ Ferramentas:**
 
-[![GitHub](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-[![Linux](https://img.shields.io/badge/linux-kernel-orange?style=for-the-badge&logo=linux&logoColor=white)](https://www.kernel.org/)
-[![Git](https://img.shields.io/badge/git-orange?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 
-**Cloud/ Nuvem:**
+---
 
-[![AWS](https://img.shields.io/badge/aws-orange?style=for-the-badge&logo=aws&logoColor=white)](https://aws.amazon.com/)
-[![Azure](https://img.shields.io/badge/microsoft%20azure-blue?style=for-the-badge&logo=microsoft%20azure&logoColor=white)](https://azure.microsoft.com/)
+## 🚀 About Me | Sobre mim
 
-**Database/ Banco de dados:**
+💻 Full Stack Developer  
+🎓 Software Engineering Student  
+☁️ Cloud Computing Enthusiast  
+🌎 Portuguese & English  
+⚽ Corinthians fan  
 
-[![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF)
 
-## 🔗 Links
-- 📫 You can contact me through my LinkedIn:
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daianebarbosak/)
-- By email: bdaih0405@gmail.com
-- [![Portfólio](https://img.shields.io/badge/portfolio-gray?style=for-the-badge&message=Daiane%20Barbosa&logo=folder&logoColor=white)](https://daihseven.github.io/PortifolioDaiane/)
-  
-## 🔗 Links
-- 📫 Pode entrar em contato comigo pelo meu LinkedIn: 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daianebarbosak/)
-- Pelo email: bdaih0405@gmail.com
-- [![Portfólio](https://img.shields.io/badge/portfolio-gray?style=for-the-badge&message=Daiane%20Barbosa&logo=folder&logoColor=white)](https://daihseven.github.io/PortifolioDaiane/)
 
-## 🧠 I'm learning
-## 🧠 Estou aprendendo 
-![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
-![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white)
-![ReactJs](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat)
+---
 
-## 📈 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DaihSeven&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="190" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DaihSeven&locale=en&hide_title=false&layout=compact&card_width=350&langs_count=6&theme=dracula&hide_border=false&order=2" height="190" alt="languages graph"  />
-</div>
+### 🇺🇸 EN
+
+I am passionate about building scalable applications and cloud solutions.  
+I enjoy learning new technologies, mentoring students, and contributing to the tech community.
+
+- 🔭 Interested in **Java, Node.js, Cloud and Databases**
+- 🧠 Currently studying **Software Engineering**
+- 💞️ Volunteer mentor at **Escola da Nuvem**
+- 🎮 Google Cloud Arcade Facilitator
+
+As a **Google Cloud Arcade Facilitator**, I help students during their cloud learning journey, supporting labs, challenges, and community engagement while promoting collaborative learning.
+
+
+
+---
+
+### 🇧🇷 PT-BR
+
+Sou apaixonada por construir aplicações escaláveis e soluções em nuvem.  
+Gosto de aprender novas tecnologias, mentorar estudantes e contribuir com a comunidade tech.
+
+- 🔭 Interesse em **Java, Node.js, Cloud e Bancos de Dados**
+- 🧠 Estudante de **Engenharia de Software**
+- 💞️ Mentora voluntária na **Escola da Nuvem**
+- 🎮 Facilitadora do **Google Cloud Arcade**
+
+
+
+---
+
+## 🎓 Certifications
+
+<p align="center">
+
+<a href="https://www.credly.com/badges/70da7f47-8cd5-4258-9c1a-9031055fa506">
+  <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="200"/>
+</a>
+<a href="https://www.credly.com/badges/004411ab-f5df-421f-b630-438dda77ba6f">
+  <img src="https://images.credly.com/size/340x340/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" width="200"/>
+</a>
+<a href="https://www.credly.com/badges/52bb3cae-85d9-48dd-9631-7ea0c0af1760/public_url">
+  <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="200"/>
+</a>
+<a href="https://www.credly.com/badges/4978ba17-33d2-408a-b372-17ca7ec90fbd">
+  <img src="https://images.credly.com/size/340x340/images/44e2c252-5d19-4574-9646-005f7225bf53/image.png" width="200"/>
+</a>
+
+</p>
+
+
+### ☁️ AWS Certified
+- AWS Cloud Practitioner  
+- AWS Solutions Architect Associate  
+- AWS AI Practitioner  
+- AWS re/Start Graduate
+---
+
+
+
+# 🛠️ Tech Stack
+
+---
+
+### 💻 Languages
+
+
+<p align="center">
+<img src="https://img.shields.io/badge/JavaScript-333333?style=for-the-badge&logo=javascript"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/>
+<img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk"/>
+</p>
+
+---
+
+### 🎨 Frontend
+
+
+<p align="center">
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js"/>
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css"/>
+<img src="https://img.shields.io/badge/FramerMotion-black?style=for-the-badge&logo=framer"/>
+</p>
+
+---
+
+### 🧰 Tools & DevOps
+
+
+<p align="center">
+<img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git"/>
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Linux-orange?style=for-the-badge&logo=linux"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
+
+---
+
+### ☁️ Cloud
+
+
+<p align="center">
+<img src="https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonaws"/>
+<img src="https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=microsoftazure"/>
+<img src="https://img.shields.io/badge/GoogleCloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+</p>
+
+---
+
+### 🗄️ Databases
+
+
+<p align="center">
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql"/>
+<img src="https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb"/>
+</p>
+
+
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center" width="200">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DaihSeven&theme=dracula"/>
+</p>
+
+
+
+---
+## 🔥 GitHub Streak
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=DaihSeven"/>
+</p>
+
+
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DaihSeven&show_icons=true&theme=dracula"/>
+
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DaihSeven&layout=compact&theme=dracula"/>
+
+</p>
+
+
+
+---
+# 💡 Fun Fact
+⚽ Proud Corinthians supporter 🖤🤍
+
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DaihSeven&label=Profile%20Views&color=9400d3&style=for-the-badge" />
+</p>
 
 ###
 <!--
@@ -148,7 +254,7 @@ Descrição: Durante o curso de Monitoramento e Observabilidade da O2B Academy, 
 Tecnologias: Prometheus, Grafana, Docker, Python
 
 Repositório: [GitHub](https://github.com/DaihSeven/desafio-obs.git)
--->
+
 # Visitors/ Visitantes
 <div align="center">
   <img src="https://profile-counter.glitch.me/DaihSeven/count.svg?"  />
@@ -156,7 +262,7 @@ Repositório: [GitHub](https://github.com/DaihSeven/desafio-obs.git)
 
 ###
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
+-->
 ## Licença
 [MIT](https://choosealicense.com/licenses/mit/)
 
