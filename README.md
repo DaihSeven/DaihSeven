@@ -45,7 +45,7 @@
 I am passionate about building scalable applications and cloud solutions.  
 I enjoy learning new technologies, mentoring students, and contributing to the tech community.
 
-- 🔭 Interested in **Java, Node.js, Cloud and Databases**
+- 🔭 Interested in **Python, Node.js, Cloud and Databases**
 - 🧠 Currently studying **Software Engineering**
 - 💞️ Volunteer mentor at **Escola da Nuvem**
 - 🎮 Google Cloud Arcade Facilitator
@@ -61,7 +61,7 @@ As a **Google Cloud Arcade Facilitator**, I help students during their cloud lea
 Sou apaixonada por construir aplicações escaláveis e soluções em nuvem.  
 Gosto de aprender novas tecnologias, mentorar estudantes e contribuir com a comunidade tech.
 
-- 🔭 Interesse em **Java, Node.js, Cloud e Bancos de Dados**
+- 🔭 Interesse em **Python, Node.js, Cloud e Bancos de Dados**
 - 🧠 Estudante de **Engenharia de Software**
 - 💞️ Mentora voluntária na **Escola da Nuvem**
 - 🎮 Facilitadora do **Google Cloud Arcade**
@@ -110,7 +110,7 @@ Gosto de aprender novas tecnologias, mentorar estudantes e contribuir com a comu
 <img src="https://img.shields.io/badge/JavaScript-333333?style=for-the-badge&logo=javascript"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/>
-<img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk"/>
+
 </p>
 
 ---
