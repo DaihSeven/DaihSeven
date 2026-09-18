@@ -27,7 +27,6 @@
 
 
 ---
-
 ## 🚀 About Me | Sobre mim
 
 💻 Full Stack Developer  
@@ -36,37 +35,41 @@
 🌎 Portuguese & English  
 ⚽ Corinthians fan  
 
-
-
 ---
 
 ### 🇺🇸 EN
 
-I am passionate about building scalable applications and cloud solutions.  
-I enjoy learning new technologies, mentoring students, and contributing to the tech community.
+I'm passionate about building scalable applications and cloud solutions. I enjoy learning new technologies, mentoring students, and contributing to the tech community.
 
-- 🔭 Interested in **Python, Node.js, Cloud and Databases**
-- 🧠 Currently studying **Software Engineering**
-- 💞️ Volunteer mentor at **Escola da Nuvem**
-- 🎮 Google Cloud Arcade Facilitator
+**Education**
+- 🎓 Software Engineering (in progress) — Estácio University Center of Santa Catarina (2023–2026)
+- 💻 Full Stack Development (720h) — Programadores do Amanhã (2024–2025)
+- 🤖 AI Specialization (in progress) — Programadores do Amanhã (Aug–Dec/2026)
 
-As a **Google Cloud Arcade Facilitator**, I help students during their cloud learning journey, supporting labs, challenges, and community engagement while promoting collaborative learning.
+**Highlights**
+- 🚀 Delivered a full-cycle freelance project — from requirements gathering and business analysis to production deployment — plus evolved existing chatbot, CRM and AI-integration solutions. Also led a data analysis & migration project, including a cost-reduction estimate for the client.
+- 💞️ Volunteer mentor at **Escola da Nuvem** — mentored students toward AWS CLF-C02 and SAA-C03 certifications, helping **26 students get certified in 2025**. Recognized with **2nd place at the EdN Awards (Jan/2026)** as "Mentora Especialista em Aprovações."
+- 🎮 **Google Cloud Arcade Facilitator** — supported students through labs, challenges and community engagement, promoting collaborative learning.
 
-
+🔭 Interested in **Python, Node.js, Cloud and Databases**
 
 ---
 
 ### 🇧🇷 PT-BR
 
-Sou apaixonada por construir aplicações escaláveis e soluções em nuvem.  
-Gosto de aprender novas tecnologias, mentorar estudantes e contribuir com a comunidade tech.
+Sou apaixonada por construir aplicações escaláveis e soluções em nuvem. Gosto de aprender novas tecnologias, mentorar estudantes e contribuir com a comunidade tech.
 
-- 🔭 Interesse em **Python, Node.js, Cloud e Bancos de Dados**
-- 🧠 Estudante de **Engenharia de Software**
-- 💞️ Mentora voluntária na **Escola da Nuvem**
-- 🎮 Facilitadora do **Google Cloud Arcade**
+**Formação**
+- 🎓 Engenharia de Software (cursando) — Centro Universitário Estácio de Santa Catarina (2023–2026)
+- 💻 Desenvolvimento Full Stack (720h) — Programadores do Amanhã (2024–2025)
+- 🤖 Especialização em IA (cursando) — Programadores do Amanhã (Ago–Dez/2026)
 
+**Destaques**
+- 🚀 Desenvolvi um projeto freelance completo de ponta a ponta — do levantamento de requisitos e análise de negócio ao deploy em produção — além de evoluir soluções existentes de chatbot, CRM e integrações com IA. Também realizei um projeto de análise e migração de dados, incluindo estimativa de redução de custos operacionais para o cliente.
+- 💞️ Mentora voluntária na **Escola da Nuvem** — mentorei alunos rumo às certificações AWS CLF-C02 e SAA-C03, ajudando **26 alunos a se certificarem em 2025**. Reconhecida com o **2º lugar no EdN Awards (Jan/2026)** como "Mentora Especialista em Aprovações".
+- 🎮 **Facilitadora do Google Cloud Arcade** — apoiei estudantes em suas trilhas de aprendizado em nuvem, com suporte em labs, desafios e engajamento da comunidade.
 
+🔭 Interesse em **Python, Node.js, Cloud e Bancos de Dados**
 
 ---
 
@@ -110,6 +113,8 @@ Gosto de aprender novas tecnologias, mentorar estudantes e contribuir com a comu
 <img src="https://img.shields.io/badge/JavaScript-333333?style=for-the-badge&logo=javascript"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+
 
 </p>
 
